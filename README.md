@@ -1,2 +1,3 @@
-# unreal-battle-tank
-Battle Tank section of the Unreal Developer course on Udemy.
+# Battle Tank
+
+This is my version of the Battle Tank section of the Udemy course: [https://www.udemy.com/unrealcourse](https://www.udemy.com/unrealcourse)
